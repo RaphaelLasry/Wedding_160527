@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Margot et Raphael//Mariage 2027//FR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:margot-raphael-20270516@raphaellasry.github.io
+DTSTAMP:20261102T000000Z
+DTSTART:20270516T133000Z
+SUMMARY:Mariage de Margot et Raphaël
+LOCATION:Château de Courtalain\, 28290 Vald'Yerre\, France
+DESCRIPTION:Accueil citronnade à 15h30. Cérémonie à 16h30.
+ Cocktail à 17h30. Dîner à 20h00. Soirée à 23h00.
+END:VEVENT
+END:VCALENDAR
